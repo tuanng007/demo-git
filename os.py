@@ -19,6 +19,6 @@ open('E:/lythuyet/chap01.txt', 'w').close()
 open('E:/lythuyet/final.txt', 'w').close()
 open('E:/diem.json', 'w').close()
 
-
+#cmmt2
 #cmt
 print(f'Files and Directories: {os.listdir()}')
