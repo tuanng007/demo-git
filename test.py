@@ -8,6 +8,4 @@ file = open('E:/diem.txt', 'r')
 
 content = file.read()
 print(content)
-
-##cmt
 file.close()
